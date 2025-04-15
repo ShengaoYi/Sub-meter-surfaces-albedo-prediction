@@ -144,7 +144,7 @@ python 5_evaluation/metrics_summary.py
 
 If you use this work, please cite:
 
-*Coming soon*
+*Yi, S., Li, X., Liu, Y., Dong, X. & Tu, W. A sub-meter resolution urban surface albedo dataset for 34 U.S. cities based on deep learning. Dataset, https://doi.org/10.6084/m9.figshare.27850965 (2024).*
 
 ---
 
