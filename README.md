@@ -1,9 +1,24 @@
 
 # 🌇 Sub-Meter Urban Surface Albedo Prediction for 34 U.S. Cities based on Deep Learning
 
-This repository contains the full codebase, data pipeline, and model implementation for the project:
+This repository contains the full pipeline and source code for our paper:
 
-**"Sub-Meter Surfaces Albedo Mapping across 34 Major U.S. Cities Using Deep Learning and Multisource Remote Sensing Data"**
+**"A Sub-Meter Resolution Urban Surfaces Albedo Dataset for 34 U.S. Cities based on Deep Learning Network"**
+
+## 🌟 Project Summary
+
+Accurately mapping urban surface albedo at a fine spatial scale is crucial for microclimate modeling and urban heat mitigation planning. This project presents the first high-resolution (0.6m) albedo dataset for **impervious** and **pervious** surfaces across 34 major U.S. cities.
+
+We utilized NAIP imagery, roof albedo ground truth, Sentinel-2 data, and deep learning models (U-Net variants) to predict **impervious surface albedo (ISA)** and **pervious surface albedo (PSA)**.
+
+📍**Project Website & Visualization**:  
+👉 https://shengaoyi.github.io/#/Albedopedia
+
+📄 **Reviewed by**: *Scientific Data* (Nature Portfolio)
+
+👨‍💻 **Authors**: Shengao Yi, Xiaojiang Li, Yixuan Liu, Xinyu Dong, Wei Tu
+
+---
 
 ## 🔍 Overview
 
