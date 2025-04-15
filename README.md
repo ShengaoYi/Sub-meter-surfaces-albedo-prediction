@@ -32,7 +32,6 @@ This project develops a deep learning framework that predicts **1-meter resoluti
 
 ```
 Sub-meter-albedo-prediction/
-│
 ├── 1_data_preprocessing/        # Prepare NAIP tiles, building masks, albedo clipping
 ├── 2_training_dataset/          # Generate training image-label pairs (ISA, PSA)
 ├── 3_model_training/            # Train U-Net models for ISA & PSA
