@@ -16,7 +16,7 @@ We utilized NAIP imagery, roof albedo ground truth, Sentinel-2 data, and deep le
 
 📄 **Reviewed by**: *Scientific Data* (Nature Portfolio)
 
-👨‍💻 **Authors**: Shengao Yi, Xiaojiang Li, Yixuan Liu, Xinyu Dong, Wei Tu
+👨‍💻 **Authors**: Shengao Yi*, Xiaojiang Li, Yixuan Liu, Xinyu Dong, Wei Tu
 
 ---
 
