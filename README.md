@@ -1,5 +1,5 @@
 
-# 🌇 Sub-Meter Urban Surface Albedo Prediction for U.S. Cities
+# 🌇 Sub-Meter Urban Surface Albedo Prediction for 34 U.S. Cities based on Deep Learning
 
 This repository contains the full codebase, data pipeline, and model implementation for the project:
 
@@ -23,7 +23,6 @@ Sub-meter-albedo-prediction/
 ├── 3_model_training/            # Train U-Net models for ISA & PSA
 ├── 4_prediction_inference/      # Patch-wise prediction & mosaicking across 34 cities
 ├── 5_evaluation/                # Evaluation metrics (R², MAE, RMSE) & visualization
-├── utils/                       # Helper functions and preprocessing utilities
 └── README.md                    # Project introduction (this file)
 ```
 
