@@ -42,6 +42,15 @@ Sub-meter-albedo-prediction/
 
 ---
 
+## Study Area
+
+The study covers 34 major U.S. cities, enabling a comprehensive analysis of surface albedo at sub-meter resolution. This geographic diversity captures a wide range of urban morphologies, land cover patterns, and climatic zones.
+
+![Study Area Map](figure/Figure 1 Framework.jpg)
+*Figure 1. Study area: 34 selected U.S. cities.*
+
+---
+
 ## 🌐 Data Sources
 
 | Dataset                    | Source                                           | Resolution | Purpose                                   |
@@ -157,9 +166,3 @@ This work was supported by high-resolution data from USDA, Sentinel-2 via Google
 
 For questions or suggestions, contact: **Shengao Yi** at [shengao@upenn.edu]
 
-## Study Area
-
-The study covers 34 major U.S. cities, enabling a comprehensive analysis of surface albedo at sub-meter resolution. This geographic diversity captures a wide range of urban morphologies, land cover patterns, and climatic zones.
-
-![Study Area Map](figures/0d7dd645-32ec-47ce-8e8d-afd4938a6865.png)
-*Figure 1. Study area: 34 selected U.S. cities.*
