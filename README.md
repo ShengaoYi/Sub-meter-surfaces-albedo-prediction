@@ -51,6 +51,11 @@ The study covers 34 major U.S. cities, enabling a comprehensive analysis of surf
 
 ---
 
+## Overall Framework
+
+![Image](https://github.com/user-attachments/assets/f8e100a9-f32e-4b78-864c-349f04a26050)
+*Figure 2. Overall framework for surface albedo mapping: 1) collecting diverse data sources; 2) preprocessing for model readiness; 3) model training and evaluating for accurate urban albedo mapping.*
+
 ## 🌐 Data Sources
 
 | Dataset                    | Source                                           | Resolution | Purpose                                   |
