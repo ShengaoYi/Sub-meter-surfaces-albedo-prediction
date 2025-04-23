@@ -56,6 +56,8 @@ The study covers 34 major U.S. cities, enabling a comprehensive analysis of surf
 ![Image](https://github.com/user-attachments/assets/f8e100a9-f32e-4b78-864c-349f04a26050)
 *Figure 2. Overall framework for surface albedo mapping: 1) collecting diverse data sources; 2) preprocessing for model readiness; 3) model training and evaluating for accurate urban albedo mapping.*
 
+---
+
 ## 🌐 Data Sources
 
 | Dataset                    | Source                                           | Resolution | Purpose                                   |
@@ -68,6 +70,21 @@ The study covers 34 major U.S. cities, enabling a comprehensive analysis of surf
 
 ---
 
+## NAIP Maps
+![Image](https://github.com/user-attachments/assets/d8aa0cda-900c-45cb-8f33-e45dd1c091f6)
+*Figure 3. NAIP maps of 34 major U.S. cities.*
+
+---
+## Roof Albedo
+![Figure 4 Roof_Albedo](https://github.com/user-attachments/assets/8ff58950-ad4e-45f2-a467-6a4b30435791)
+*Figure 4. The spatial distribution of impervious roof albedo in 4 U.S. cities.*
+
+---
+## UNet
+![Image](https://github.com/user-attachments/assets/dc868f6a-4d56-4555-b345-b865a1be9252)
+*Figure 5. U-Net framework for impervious surface classification and albedo prediction.*
+
+---
 ## 🧠 Model Summary
 
 - **Architecture**: U-Net
@@ -104,13 +121,6 @@ The study covers 34 major U.S. cities, enabling a comprehensive analysis of surf
 - PyTorch ≥ 1.10
 - NumPy, Pandas, Rasterio, OpenCV
 - CUDA-enabled GPU for training
-
-Install dependencies with:
-
-```bash
-pip install -r requirements.txt
-```
-
 ---
 
 ## 🚀 How to Run
@@ -150,6 +160,12 @@ python 5_evaluation/metrics_summary.py
 |------|------|------|------|
 | ISA  | 0.9028 | 0.0057 | 0.0002 |
 | PSA  | 0.9538 | 0.0027 | 0.00002 |
+
+![Image](https://github.com/user-attachments/assets/4e0cc4a7-48f6-4573-8b49-62cafebcce68)
+*Figure 6. Urban surface albedo maps of 34 major U.S. cities.*
+
+![Image](https://github.com/user-attachments/assets/324fe2ed-f9d1-48c1-84e5-69e2e1effe49)
+*Figure 7. Illustrative example of urban albedo mapping process and its precise results.*
 
 ---
 
