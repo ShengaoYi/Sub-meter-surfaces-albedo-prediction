@@ -14,7 +14,7 @@ We utilized NAIP imagery, roof albedo ground truth, Sentinel-2 data, and deep le
 📍**Project Website & Visualization**:  
 👉 https://shengaoyi.github.io/#/Albedopedia
 
-📄 **Reviewed by**: *Scientific Data* (Nature Portfolio)
+📄 **Accepted by**: *Scientific Data* (Nature Portfolio)
 
 👨‍💻 **Authors**: Shengao Yi*, Xiaojiang Li, Yixuan Liu, Xinyu Dong, Wei Tu
 
