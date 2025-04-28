@@ -24,7 +24,7 @@ We utilized NAIP imagery, roof albedo ground truth, Sentinel-2 data, and deep le
 
 Surface albedo refers to the fraction of incoming solar radiation that is reflected by the Earth’s surface, ranging from 0 (no reflection) to 1 (total reflection). It is a key parameter in understanding how different land surfaces interact with solar energy. It also plays a critical role in shaping local microclimates. However, existing albedo datasets (e.g., MODIS, Sentinel-2) offer only 10–30m resolution, limiting their applicability for micro-scale thermal modeling and heat exposure assessments.
 
-This project develops a deep learning framework that predicts **1-meter resolution albedo** for **impervious** and **pervious** surfaces using multisource geospatial data and deep learning models. Outputs can support neighborhood-scale environmental planning, heat mitigation, and climate adaptation strategies.
+This project develops a deep learning framework that predicts **sub-meter (0.6m) resolution albedo** for **impervious** and **pervious** surfaces using multisource geospatial data and deep learning models. Outputs can support neighborhood-scale environmental planning, heat mitigation, and climate adaptation strategies.
 
 ---
 
