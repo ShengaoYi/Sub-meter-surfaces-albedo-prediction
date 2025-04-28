@@ -3,7 +3,7 @@
 
 This repository contains the full pipeline and source code for our paper:
 
-**"A Sub-Meter Resolution Urban Surfaces Albedo Dataset for 34 U.S. Cities based on Deep Learning Network"**
+**"A Sub-Meter Resolution Urban Surfaces Albedo Dataset for 34 U.S. Cities based on Deep Learning"**
 
 ## 🌟 Project Summary
 
